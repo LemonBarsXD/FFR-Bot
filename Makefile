@@ -1,4 +1,3 @@
-# Author: LemonBarsXD
 # Simple but it works
 
 all: main
